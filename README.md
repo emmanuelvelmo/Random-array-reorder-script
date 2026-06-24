@@ -1,4 +1,4 @@
-# Array random reorder script
+# Random array reorder script
 -
 
 <p align="left">
